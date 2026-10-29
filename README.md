@@ -3,7 +3,7 @@
 <p align="center">
   <b>Co-founder @ <a href="https://mindfold.ai">Mindfold</a></b> · building <b>Trellis</b> — the intelligence layer for AI-native engineering<br/>
   Generative&nbsp;3D × Multi-agent × LLMs · I turn language &amp; images into manufacturable worlds<br/>
-  <i>Said no to a ¥800K offer (and an NTU place) to go all-in. Silicon&nbsp;Valley bound, 2026.</i>
+  <i>Said no to a ¥800K offer to go all-in. Silicon&nbsp;Valley bound, 2026.</i>
 </p>
 
 <p align="center">
